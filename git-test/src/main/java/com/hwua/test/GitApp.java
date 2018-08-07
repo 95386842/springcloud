@@ -6,6 +6,7 @@ public class GitApp {
 		
 		System.out.println("已经修改了");
 		System.out.println("已经修改两次了");
+		System.out.println("已经修改三次了");
 	}
 
 }
